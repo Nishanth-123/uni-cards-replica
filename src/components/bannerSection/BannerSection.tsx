@@ -7,7 +7,7 @@ import { useState } from "react";
 export default function BannerSection() {
   const [formEnabled, setFormEnabled] = useState<boolean>(false);
   return (
-    <div style={{width:"100%", height:"100vh", position:"relative"}}>
+    <div style={{width:"100%", height:"100vh", position:"relative", backgroundColor:"white"}}>
       <Row
         style={{
           padding: "0px",

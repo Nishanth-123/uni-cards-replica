@@ -9,9 +9,6 @@ export default function Header() {
       <a
         href="https://paychek.uni.club/"
         className="paycheck"
-        style={{
-          cursor:"pointer"
-        }}
         >
         Uni Paycheck
       </a>
