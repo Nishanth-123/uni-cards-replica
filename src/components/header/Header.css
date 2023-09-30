@@ -1,0 +1,14 @@
+.paycheck{
+    color: white;
+    background-color: black;
+    opacity: 0.6;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 0.75rem;
+    cursor: pointer;
+}
+
+.paycheck:hover {
+    opacity: 1;
+    color: '#7deddd';
+}

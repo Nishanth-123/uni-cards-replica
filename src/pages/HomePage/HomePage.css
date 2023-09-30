@@ -1,0 +1,28 @@
+.root{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    position: relative;
+}
+
+.body{
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    overflow-y: scroll;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    z-index: 3;
+    background-color: transparent;
+    position: absolute;
+    height: 150px;
+    top: 0;
+    left: 36px;
+    right: 36px;
+}
